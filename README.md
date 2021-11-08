@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 
-## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=spring-boot&logoColor=white&color=2bbc8a)
@@ -39,27 +38,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Messenger-Slack-informational?style=flat&logo=Slack&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Delphi-informational?style=flat&logo=delphi&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/SoberGrim/SoberGrim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SoberGrim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Alexanders's GitHub Stats" />
-</a>
-<br><br>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=SoberGrim&label=Profile%20views&color=2bbc8a&style=flat" alt="SoberGrim"/></p>
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (My Twitter)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (My LinkedIn)
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/SoberGrim
-[2]: https://github.com/SoberGrim
-[3]: https://www.linkedin.com/in/SoberGrim/
